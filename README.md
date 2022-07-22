@@ -1,16 +1,16 @@
-# NapptilusTechChallenge
+### NapptilusTechChallenge
 This a technical challenge for Napptilus
 
-Available Scripts
+#Available Scripts
 
-npm dev
+##npm dev
 Runs the app in the development mode.
 Open http://127.0.0.1:5173/ to view it in the browser.
 
-npm test
+##npm test
 Launches the test runner with Jest in the interactive watch mode.
 
-npm build
+##npm build
 Produces an application bundle that is suitable to be served over a static hosting service
 
 Your app is ready to be deployed!
